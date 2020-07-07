@@ -1,0 +1,23 @@
+git initi
+
+
+git config --global user.name "saljaz"
+git config --global user.email "saljaz"
+
+
+git add name 
+
+
+git log
+
+
+git status 
+
+git commit -m "message"
+
+
+git branch <name>
+
+git checkout <code>
+
+
